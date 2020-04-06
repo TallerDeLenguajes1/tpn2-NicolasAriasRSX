@@ -1,0 +1,5 @@
+2f_
+¿Puede ver el archivo tp2_1_2.cpp?¿Por qué?
+
+No, no se puede, Ya que el archivo tp2_1_2.cpp se encuentra en el branch (rama) Opcion_2,
+y ahora nos encontramos en la rama master que es difderente.Asi podemos trabajar sin modificar el original que se encuentra en el master.
