@@ -2,4 +2,8 @@
 ¿Puede ver el archivo tp2_1_2.cpp?¿Por qué?
 
 No, no se puede, Ya que el archivo tp2_1_2.cpp se encuentra en el branch (rama) Opcion_2,
-y ahora nos encontramos en la rama master que es difderente.Asi podemos trabajar sin modificar el original que se encuentra en el master.
+y ahora nos encontramos en la rama master que es difderente. Asi podemos trabajar sin modificar el original que se encuentra en el master.
+
+j_ el cambio mas notorio al realizar el gitk en la rama Opcion_2, es que aparecen tanto la rama Opcion_2 como la rama master, mientras
+que al realizar gitk en la rama master solo aparace esta rama.
+Nota: No me funcionaba cuando ingresaba el comando gitk -all, pero si al ingresar gitk.
