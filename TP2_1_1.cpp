@@ -11,7 +11,7 @@ int main(){
     double mt [N] [M];
     srand(time(NULL));
     //________________________________
-    //Aqui se geneta la matriz
+    //Aqui se genera la matriz
     for (f=0; f < N; f++)
     {
         for (c = 0; c < M; c++)
