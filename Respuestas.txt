@@ -6,4 +6,5 @@ y ahora nos encontramos en la rama master que es difderente. Asi podemos trabaja
 
 j_ el cambio mas notorio al realizar el gitk en la rama Opcion_2, es que aparecen tanto la rama Opcion_2 como la rama master, mientras
 que al realizar gitk en la rama master solo aparace esta rama.
-Nota: No me funcionaba cuando ingresaba el comando gitk -all, pero si al ingresar gitk.
+
+Luego del git merge, se puede notar en el gitk --all que la rama Opcion_2 se une a la rama principal Master.
